@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">IM</string>
+    <string name="heads_up">heads up</string>
+    <string name="heads_up_plus">heads up +</string>
 </resources>
